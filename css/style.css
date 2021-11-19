@@ -35,6 +35,10 @@
     width: 50%;
 }
 
+.w70 {
+    width: 70%;
+}
+
 .no-decoration {
     
 }
@@ -53,6 +57,10 @@
     color: white;
 }
 
+.vertical-space {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 /* Header */
 
 header figure, ul, li {
