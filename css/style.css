@@ -88,6 +88,10 @@
     margin-left: 15px;
 }
 
+.text-cent {
+    text-align: center;
+}
+
 .square-bord {
     display: inline-block;
     background-color: white;
@@ -95,6 +99,26 @@
     width: 20px;
     border-radius: 50%;
     border: 4px solid #1267FF;
+}
+
+.padd-r {
+    padding-right: 15px;
+}
+
+.padd-l {
+    padding-left: 15px;
+}
+
+.vertical-morespace {
+    margin: 40px 0;
+}
+
+.vertical-onlytop {
+    margin-top: 40px;
+}
+
+.vertical-onlytop-plus {
+    margin-top: 60px;
 }
 
 /* Header */
