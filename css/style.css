@@ -48,6 +48,10 @@
     color: #23272A;
 }
 
+.btn-big {
+    padding: 10px 15px;
+    color: white;
+}
 
 /* Header */
 
@@ -73,4 +77,14 @@ header a {
 .jumbotron {
     height: 600px;
     background-color: #B4D0E8;
+}
+
+.jumbotron h1 {
+    font-size: 3.5rem;
+    width: 100%;
+}
+
+.jumbotron p {
+    color: #23272A;
+    font-size: 1rem;
 }
