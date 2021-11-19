@@ -24,6 +24,7 @@
 
 .col-r {
     float: right;
+    text-align: right;
 }
 
 .w-30 {
@@ -35,11 +36,10 @@
 }
 
 .no-decoration {
-    text-decoration: none;
+    
 }
 
 .btn {
-    border-radius: 20px;
     text-decoration: none;
 }
 
@@ -57,6 +57,8 @@ header figure, ul, li {
 
 header a {
     padding: 0 20px;
+    text-decoration: none;
+    color: #23272A;
 }
 
 .header-size {
@@ -64,10 +66,6 @@ header a {
     line-height: 100px;
     color: #5F5F5F;
     vertical-align: middle;
-}
-
-.col-r {
-    text-align: right;
 }
 
 /* JUMBOTRON - mi servono sia il colore di sfondo che la centralità del testo (per quella utilizzo il "container" */
