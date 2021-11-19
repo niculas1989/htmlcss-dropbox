@@ -85,6 +85,7 @@ header a {
 .jumbotron {
     height: 600px;
     background-color: #B4D0E8;
+    font-weight: 600;
 }
 
 .jumbotron h1 {
@@ -95,4 +96,8 @@ header a {
 .jumbotron p {
     color: #23272A;
     font-size: 1rem;
+}
+
+.fa-arrow-down {
+    font-size: 3rem;
 }
