@@ -98,6 +98,7 @@ header a {
     height: 600px;
     background-color: #B4D0E8;
     font-weight: 600;
+    margin-bottom: 250px;
 }
 
 .jumbotron h1 {
@@ -124,3 +125,6 @@ header a {
     padding-top: 30px;
     padding-left: 45px;
 }
+
+/* PIANIFICAZIONE per i pagamenti */
+
