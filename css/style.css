@@ -74,6 +74,10 @@
     padding-bottom: 30px;
 }
 
+.vertical-marg {
+    margin: 20px 0;
+}
+
 .square {
     display: inline-block;
     background-color: white;
@@ -155,4 +159,8 @@ header a {
 .options {
     margin-top: 40px;
     margin-down: 20px;
+}
+
+hr {
+    width: 20%;
 }
