@@ -15,4 +15,29 @@
     margin: 0 auto;
 }
 
+/* UTILITIES */
+
+.col-l {
+    float: left;
+}
+
+.col-r {
+    float: right;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+/* Header */
+
+#logo {
+    display: inline-block;
+}
+
+.header-size {
+    height: 100px;
+    line-height: 100px;
+}
+
 /* JUMBOTRON - mi servono sia il colore di sfondo che la centralità del testo (per quella utilizzo il "container" */
