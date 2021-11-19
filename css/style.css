@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .clearfix::after {
@@ -29,15 +30,44 @@
     width: 30%;
 }
 
+.w-50 {
+    width: 50%;
+}
+
+.no-decoration {
+    text-decoration: none;
+}
+
+.btn {
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.btn-light {
+    background-color: #0F60FF;
+    color: #23272A;
+}
+
+
 /* Header */
 
-#logo {
+header figure, ul, li {
     display: inline-block;
+}
+
+header a {
+    padding: 0 20px;
 }
 
 .header-size {
     height: 100px;
     line-height: 100px;
+    color: #5F5F5F;
+    vertical-align: middle;
+}
+
+.col-r {
+    text-align: right;
 }
 
 /* JUMBOTRON - mi servono sia il colore di sfondo che la centralità del testo (per quella utilizzo il "container" */
