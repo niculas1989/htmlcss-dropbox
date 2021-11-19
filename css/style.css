@@ -62,10 +62,15 @@ header a {
 }
 
 .header-size {
-    height: 100px;
-    line-height: 100px;
+    height: 60px;
+    line-height: 60px;
     color: #5F5F5F;
     vertical-align: middle;
 }
 
 /* JUMBOTRON - mi servono sia il colore di sfondo che la centralità del testo (per quella utilizzo il "container" */
+
+.jumbotron {
+    height: 600px;
+    background-color: #B4D0E8;
+}
