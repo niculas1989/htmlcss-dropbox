@@ -164,3 +164,7 @@ header a {
 hr {
     width: 20%;
 }
+
+.pianificazione .fa-check {
+    color: #4A89FF;
+}
