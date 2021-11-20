@@ -341,8 +341,8 @@ hr {
 }
 
 #brands img {
-    text-align: center;
     vertical-align: middle;
+    filter:opacity(1 #fff);
 
     width: 50%;
 }
