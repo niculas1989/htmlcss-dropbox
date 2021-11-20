@@ -55,6 +55,10 @@
     width: 70%;
 }
 
+.w80 {
+    width: 80%;
+}
+
 .btn {
     text-decoration: none;
 }
@@ -174,6 +178,7 @@ header a {
     padding-left: 45px;
 }
 
+
 /* PIANIFICAZIONE per i pagamenti */
 
 .pianificazione h2 {
@@ -196,4 +201,42 @@ hr {
 .border {
     height: fit-content;
     border: 1px solid lightgray;
+}
+
+
+/* Contatti utili */
+
+.head {
+    height: 30px;
+   width: 100%; 
+   border: 1px solid lightgray;
+   text-align: center;
+   vertical-align: middle;
+}
+
+.contacts {
+    height: 200px;
+    width: 100%;
+    border: 1px solid lightgray;
+    position: relative;
+}
+
+.contacts h4 {
+    font-size: 2rem;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.p-top {
+    padding-top: 20px;
+}
+
+.absol-r {
+    position: absolute;
+    top: 25px;
+    right: 20px;
+}
+
+.contacts p {
+    font-size: 13px;
 }
