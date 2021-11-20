@@ -39,6 +39,10 @@
     width: 30%;
 }
 
+.w-40 {
+    width: 40%;
+}
+
 .w-50 {
     width: 50%;
 }
@@ -334,4 +338,52 @@ hr {
     margin-top: 30px;
 
     background-color: #F5F5F5;
+}
+
+#brands img {
+    text-align: center;
+    vertical-align: middle;
+
+    width: 50%;
+}
+
+.square-spons {
+    height: 200px;
+    width: 50%;
+}
+
+.square-spons-green {
+    background-color: #A2D49B;
+}
+
+.square-spons-amar {
+    background-color: #62082B;
+}
+
+.square-spons-blue {
+    background-color: #1694CF;
+}
+
+.square-spons-red {
+    background-color: red;
+}
+
+.col-r-sp {
+    float: right;
+}
+
+.square-spons-darkred {
+    background-color: #D40020;
+}
+
+.square-spons-lightblue {
+    background-color: #B4D0E8;
+}
+
+.square-spons-darkblue {
+    background-color: #0D2481;
+}
+
+.square-spons-senape {
+    background-color: #FED82F;
 }
