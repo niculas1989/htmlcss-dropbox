@@ -283,7 +283,7 @@ hr {
 
 .relative {
     position: relative;
-    text-align: center;
+    /* text-align: center; */
 }
 
 /* PROSPETTIVE */
@@ -406,5 +406,34 @@ hr {
 #logo-sp {
     width: 25%;
     margin-top: 35px;
-
 }
+
+/* prova gratuita */
+
+.prova-gratuita {
+    height: 250px;
+    background-color: #B4D0E8;
+}
+
+.btn-white {
+    background-color: #fff;
+    color: black;
+
+    position: absolute;
+    top: 70px;
+    left: 40%;
+}
+
+.prova-gratuita h2 {
+    font-size: 3rem;
+    font-weight: bolder;
+    color: #62082B;
+}
+
+#title-float {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+
