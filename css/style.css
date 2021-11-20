@@ -281,3 +281,33 @@ hr {
     position: relative;
     text-align: center;
 }
+
+/* PROSPETTIVE */
+
+.prospettive {
+    margin: 80px 0;
+    
+}
+
+.prospettive img {
+    max-width: 100%;
+}
+
+.title-prospett {
+    width: 100%;
+    /* text-align: center; */
+}
+
+.title-prospett h2 {
+    font-size: 2.5rem;
+    margin: 20px 0;
+}
+
+.prospettive p {
+    margin: 20px 0;
+}
+
+.prospettive h3 {
+    margin: 10px 0;
+    font-size: 2rem;
+}
