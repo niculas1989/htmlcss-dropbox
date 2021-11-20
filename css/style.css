@@ -341,9 +341,6 @@ hr {
 }
 
 #brands img {
-    vertical-align: middle;
-    filter:opacity(1 #fff);
-
     width: 50%;
 }
 
@@ -386,4 +383,17 @@ hr {
 
 .square-spons-senape {
     background-color: #FED82F;
+}
+
+#brands hr {
+    width: 10%;
+    margin: 20px 0;
+}
+
+.col-centr {
+    margin-left: 26px;
+}
+
+#brands p {
+    margin: 45px 0;
 }
