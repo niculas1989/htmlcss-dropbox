@@ -192,3 +192,8 @@ hr {
 .pianificazione .fa-check {
     color: #4A89FF;
 }
+
+.border {
+    height: fit-content;
+    border: 1px solid lightgray;
+}
