@@ -240,3 +240,44 @@ hr {
 .contacts p {
     font-size: 13px;
 }
+
+/* PARTNER class */
+
+.partner {
+    margin-top: 220px;
+    position: relative;
+}
+
+.img-meet {
+    width: 100%;
+}
+
+.partner h3 {
+    font-size: 2rem;
+}
+
+.partner p {
+    line-height: 30px;
+    font-size: 14px;
+}
+
+.padd-l-10 {
+    margin-left: 10%;
+}
+
+.btn-transp {
+    border: 1px solid #23272A;
+    color: #23272A;
+    padding: 10px 15px;
+}
+
+.absol-c {
+    position: absolute;
+    left: 20px;
+    bottom: -20%;
+}
+
+.relative {
+    position: relative;
+    text-align: center;
+}
