@@ -352,6 +352,12 @@ hr {
     height: 200px;
     width: 50%;
     position: relative;
+    transition: 2s;
+}
+
+.square-spons:hover {
+    transition: 2s;
+    border: 10px solid #D0E9CD;
 }
 
 .square-spons-green {
@@ -438,9 +444,20 @@ hr {
 
 /* FAQ */
 
+#faq {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+#faq h2 {
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+
 #faq hr{
     width: 100%;
     margin: 40px 0;
+    color: #E5E5E6;
 }
 
 
