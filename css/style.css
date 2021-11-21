@@ -490,11 +490,16 @@ footer a {
 }
 
 .languages {
-    margin-top: 100px;
     color: #8F8F8F;
+    padding-top: 100px;
 }
 
 .languages hr {
     width: 10%;
+}
+
+.languages .fas {
+    margin-top: 40px;
+    font-size: 14px;
 }
 
