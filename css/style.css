@@ -436,4 +436,11 @@ hr {
     left: 50px;
 }
 
+/* FAQ */
+
+#faq hr{
+    width: 100%;
+    margin: 40px 0;
+}
+
 
