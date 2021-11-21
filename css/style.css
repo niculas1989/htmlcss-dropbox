@@ -131,17 +131,35 @@
 
 /* Header */
 
-header figure, ul, li {
+#logo {
     display: inline-block;
 }
+
+.header-size ul {
+    display: inline-block;
+}
+
+.header-size li {
+    display: inline-block;
+}
+
+
+
+/* .no-decoration {
+    display: inline-block;
+} */
 
 header a {
     padding: 0 20px;
     text-decoration: none;
     color: #23272A;
+
+    /* display: inline-block; */
 }
 
 .header-size {
+    /* position: fixed; */
+
     height: 60px;
     line-height: 60px;
     color: #5F5F5F;
@@ -184,6 +202,9 @@ header a {
 
 
 /* PIANIFICAZIONE per i pagamenti */
+.pianificazione {
+    height: 1200px;
+}
 
 .pianificazione h2 {
     font-size: 3rem;
@@ -203,8 +224,14 @@ hr {
 }
 
 .border {
-    height: fit-content;
+    height: 1000px;
     border: 1px solid lightgray;
+}
+
+.title-col {
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+    vertical-align: middle;
 }
 
 
@@ -477,7 +504,7 @@ footer h4 {
     margin-bottom: 20px;
 }
 
-footer ul, li {
+#footer-page ul, li {
     display: block;
     text-decoration: none;
 
