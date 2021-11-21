@@ -316,12 +316,30 @@ hr {
 /* PROSPETTIVE */
 
 .prospettive {
-    margin: 80px 0;
-    
+    margin: 80px 0; 
 }
+
+.padding-r {
+    padding-right: 5%;
+}
+
+.padding-l {
+    padding-left: 5%;
+}
+
+.margin-l {
+    margin-left: 5%;
+}
+
+.margin-r {
+    margin-right: 5%;
+}
+
+
 
 .prospettive img {
     max-width: 100%;
+    margin-top: 50px;
 }
 
 .title-prospett {
