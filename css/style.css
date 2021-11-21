@@ -143,12 +143,6 @@
     display: inline-block;
 }
 
-
-
-/* .no-decoration {
-    display: inline-block;
-} */
-
 header a {
     padding: 0 20px;
     text-decoration: none;
@@ -158,12 +152,15 @@ header a {
 }
 
 .header-size {
-    /* position: fixed; */
-
+    position: fixed;
+    top: 0;
+    width: 100%;
     height: 60px;
     line-height: 60px;
     color: #5F5F5F;
     vertical-align: middle;
+
+    z-index: 1;
 }
 
 /* JUMBOTRON - mi servono sia il colore di sfondo che la centralità del testo (per quella utilizzo il "container" */
