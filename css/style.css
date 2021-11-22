@@ -71,6 +71,11 @@ body {
     text-decoration: none;
 }
 
+.btn:hover {
+    filter: brightness(1.5);
+    cursor: pointer;
+}
+
 .btn-light {
     background-color: #0F60FF;
     color: white;
@@ -145,6 +150,7 @@ body {
 
 .header-size li {
     display: inline-block;
+    padding: 0 20px;
 }
 
 header a {
@@ -159,7 +165,7 @@ header {
     position: fixed;
     top: 0;
     width: 100%;
-    height: 60px;
+    height: 80px;
     line-height: 80px;
     color: #5F5F5F;
     background-color: #fff;
@@ -167,6 +173,10 @@ header {
     /* vertical-align: middle; */
 
     z-index: 1;
+}
+
+header img {
+    vertical-align: middle;
 }
 
 /* JUMBOTRON - mi servono sia il colore di sfondo che la centralità del testo (per quella utilizzo il "container" */
