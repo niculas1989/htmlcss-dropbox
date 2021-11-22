@@ -225,7 +225,11 @@ header img {
 
 .options {
     margin-top: 40px;
-    margin-down: 20px;
+    margin-bottom: 20px;
+}
+
+.air {
+    padding: 0 30px;
 }
 
 hr {
