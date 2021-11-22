@@ -109,6 +109,11 @@ body {
     text-align: center;
 }
 
+.container-squares {
+    height: 30px;
+    line-height: 30px;
+}
+
 .square-bord {
     display: inline-block;
     background-color: white;
