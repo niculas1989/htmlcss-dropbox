@@ -87,7 +87,7 @@ body {
 }
 
 .vertical-space {
-    padding-top: 30px;
+    padding-top: 40px;
     padding-bottom: 30px;
 }
 
@@ -198,11 +198,17 @@ header img {
 .jumbotron h1 {
     font-size: 3.5rem;
     width: 100%;
+
+    padding-top: 50px;
+
+    
 }
 
 .jumbotron p {
     color: #23272A;
     font-size: 1rem;
+
+    padding-top: 15px;
 }
 
 .fa-arrow-down {
@@ -218,6 +224,10 @@ header img {
     height: auto;
     padding-top: 30px;
     padding-left: 45px;
+}
+
+.vertical-spacing {
+    padding-top: 20px;
 }
 
 
