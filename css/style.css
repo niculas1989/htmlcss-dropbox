@@ -16,6 +16,10 @@
     margin: 0 auto;
 }
 
+body {
+    padding-top: 80px;
+}
+
 /* UTILITIES */
 
 .col-l {
@@ -151,14 +155,16 @@ header a {
     /* display: inline-block; */
 }
 
-.header-size {
+header {
     position: fixed;
     top: 0;
     width: 100%;
     height: 60px;
-    line-height: 60px;
+    line-height: 80px;
     color: #5F5F5F;
-    vertical-align: middle;
+    background-color: #fff;
+    
+    /* vertical-align: middle; */
 
     z-index: 1;
 }
