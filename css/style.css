@@ -170,6 +170,8 @@ header {
     color: #5F5F5F;
     background-color: #fff;
     box-shadow: 1px 1px 1px 3px rgba(0, 0, 0, 0.3);
+    padding-left: 20px;
+    padding-right: 20px;
     
 
     z-index: 1;
