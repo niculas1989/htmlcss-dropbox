@@ -81,6 +81,13 @@ body {
     color: white;
 }
 
+.header-size li {
+}
+
+.header-size a:hover {
+    border-bottom: 1px solid black;
+}
+
 .btn-big {
     padding: 10px 15px;
     color: white;
@@ -594,3 +601,23 @@ footer a {
     font-size: 14px;
 }
 
+
+
+
+/* BONUS */
+
+
+.fa-arrow-down {
+    position: absolute;
+    left: 50px;
+    animation: bouncing 0.5s ease infinite alternate-reverse;
+}
+
+@keyframes bouncing {
+    from {
+        transform: translateY(0);
+    }
+    to {
+        transform: translateY(-20px);
+    }
+}
