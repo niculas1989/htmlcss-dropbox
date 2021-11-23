@@ -81,9 +81,6 @@ body {
     color: white;
 }
 
-.header-size li {
-}
-
 .header-size a:hover {
     border-bottom: 1px solid black;
 }
@@ -256,6 +253,11 @@ header img {
     padding: 0 30px;
 }
 
+.air-indent {
+    padding: 0 30px;
+    text-indent: -10px;
+}
+
 hr {
     width: 20%;
 }
@@ -275,6 +277,11 @@ hr {
     vertical-align: middle;
 
     padding: 10px 0;
+}
+
+.text-under {
+    color: #4A89FF;
+    text-decoration: underline;
 }
 
 
@@ -604,7 +611,7 @@ footer a {
 
 
 
-/* BONUS */
+/* BONUS1 */
 
 
 .fa-arrow-down {
@@ -621,3 +628,31 @@ footer a {
         transform: translateY(-20px);
     }
 }
+
+/* BONUS2 */
+
+/* .header-size li ul {
+    display: none;
+}
+
+.header-size ul li a:hover {
+  background: white;
+}
+
+.header-size li:hover ul {
+  display: block;
+  position: absolute;
+}
+
+.header-size li:hover li {
+  float: none;
+  font-size: 11px;
+}
+
+.header-size li:hover a {
+  background: white;
+}
+
+.header-size li:hover li a:hover {
+  background: #dedede;
+} */
