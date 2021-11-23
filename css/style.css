@@ -81,9 +81,9 @@ body {
     color: white;
 }
 
-.header-size a:hover {
+/* .header-size a:hover {
     border-bottom: 1px solid black;
-}
+} */
 
 .btn-big {
     padding: 10px 15px;
@@ -620,7 +620,7 @@ footer a {
 
 
 /* BONUS1 */
-
+/* BOUNCING ARROW */
 
 .fa-arrow-down {
     position: absolute;
@@ -638,22 +638,44 @@ footer a {
 }
 
 /* BONUS2 */
+/* DROPMENU */
 
 .dropmenu {
+    display: block;
     position: absolute;
     height: fit-content;
     width: 100%;
     background-color: #fff;
     text-align: center;
 
-    /* display: none; */
     margin-top: -20px;
-    /* visibility: hidden; */
+    visibility: hidden;
 }
 
-.dropmenu li {
+/* .dropmenu li {
     display: block;
+}  */
+
+/* .hover:hover .dropmenu {
+    visibility: visible;
+} */
+
+
+/* BONUS3 */
+/* FAQ menu */
+
+.hidden-class {
+    margin-top: 30px;
+    color: gray;
+    background-color: lightgray;
+
+    display: none;
 }
+
+#faq:hover .hidden-class {
+display: block;
+}
+
 
 
 
