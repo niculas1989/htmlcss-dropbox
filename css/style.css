@@ -237,11 +237,17 @@ header img {
 
 /* PIANIFICAZIONE per i pagamenti */
 .pianificazione {
-    height: 1200px;
+    height: 1400px;
 }
 
 .pianificazione h2 {
     font-size: 3rem;
+
+    padding-top: 30px;
+}
+
+.pianificazione h3 {
+    padding-top: 30px;
 }
 
 .options {
@@ -267,7 +273,7 @@ hr {
 }
 
 .border {
-    height: 1000px;
+    height: 1200px;
     border: 1px solid lightgray;
 }
 
@@ -526,6 +532,8 @@ hr {
 .prova-gratuita {
     height: 250px;
     background-color: #B4D0E8;
+
+    margin-top: -80px;
 }
 
 .btn-white {
