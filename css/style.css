@@ -652,6 +652,14 @@ footer a {
 }
 
 .dropmenu li {
+    display: none;
+}
+
+.dropmenu a:hover {
     display: block;
 }
+
+/* .dropmenu li {
+    display: block;
+} */
 
