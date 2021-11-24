@@ -454,7 +454,9 @@ hr {
     margin-bottom: 30px;
 }
 
-#brands {
+/* BRANDS */
+
+.brands {
     width: 100%;
     height: calc(100vw / 3);
     margin-top: 30px;
