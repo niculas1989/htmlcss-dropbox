@@ -207,9 +207,7 @@ header img {
     font-size: 3.5rem;
     width: 100%;
 
-    padding-top: 50px;
-
-    
+    padding-top: 50px;  
 }
 
 .jumbotron p {
@@ -219,10 +217,19 @@ header img {
     padding-top: 15px;
 }
 
-.jumbotron a {
+.jumbotron a.btn{
     text-decoration: none;
-    color: black; 
+    color: white;
 }
+
+.jumbotron a{
+    text-decoration: none;
+    color: black;
+}
+
+/* .jumbotron a {
+    text-decoration: none;
+} */
 
 .fa-arrow-down {
     font-size: 3rem;
