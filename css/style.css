@@ -59,11 +59,15 @@ body {
     width: 65%;
 }
 
-.w70 {
+.w-70 {
     width: 70%;
 }
 
-.w80 {
+.w-75 {
+    width: 75%;
+}
+
+.w-80 {
     width: 80%;
 }
 
@@ -229,9 +233,9 @@ header img {
 }
 
 .jumbotron img {
-    width: 180%;
-    height: auto;
-    padding-top: 30px;
+    width: 120%;
+    height: 450px;
+    padding-top: 20px;
     padding-left: 45px;
 }
 
