@@ -241,17 +241,17 @@ header img {
 
 
 /* PIANIFICAZIONE per i pagamenti */
-.pianificazione {
+.planning {
     height: 1400px;
 }
 
-.pianificazione h2 {
+.planning h2 {
     font-size: 3rem;
 
     padding-top: 30px;
 }
 
-.pianificazione h3 {
+.planning h3 {
     padding-top: 30px;
 }
 
@@ -273,7 +273,7 @@ hr {
     width: 20%;
 }
 
-.pianificazione .fa-check {
+.planning .fa-check {
     color: #4A89FF;
 }
 
@@ -381,7 +381,7 @@ hr {
 
 /* PROSPETTIVE */
 
-.prospettive {
+.prospective {
     margin: 80px 0; 
 }
 
@@ -403,7 +403,7 @@ hr {
 
 
 
-.prospettive img {
+.prospective img {
     max-width: 100%;
     margin-top: 50px;
 }
@@ -418,11 +418,11 @@ hr {
     margin: 20px 0;
 }
 
-.prospettive p {
+.prospective p {
     margin: 20px 0;
 }
 
-.prospettive h3 {
+.prospective h3 {
     margin: 10px 0;
     font-size: 2rem;
 }
@@ -534,7 +534,7 @@ hr {
 
 /* prova gratuita */
 
-.prova-gratuita {
+.free-trial {
     height: 250px;
     background-color: #B4D0E8;
 
@@ -550,7 +550,7 @@ hr {
     left: 40%;
 }
 
-.prova-gratuita h2 {
+.free-trial h2 {
     font-size: 2.5rem;
     font-weight: bolder;
     color: #62082B;
